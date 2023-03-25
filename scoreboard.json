@@ -1,0 +1,14 @@
+[
+    {
+        "pseudo" : "toto",
+        "score" : 100
+    },
+    {
+        "pseudo" : "tata",
+        "score" : 150
+    },
+    {
+        "pseudo" : "titi",
+        "score" : 80
+    }
+]
